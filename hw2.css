@@ -12,8 +12,32 @@
             0deg,
             rgba(255,255,255, .3) 50%, 
             transparent 50%);
-  color: lightskyblue;
 }
+
+.timer-wrapper > h1{
+  color: white;
+  padding-top: 50px;
+  padding-left: 675px;
+  font-family: Comic Sans MS;
+}
+
+.timer-wrapper > input{
+   margin-left: 550px;
+   margin-right: 10px;
+   font-size: 20px;
+   width: 300px;
+   border-radius:50px;
+   text-align: center;
+}
+
+.timer-wrapper > button{
+  background: #3498db;
+  border-radius: 28px;
+  color: white;
+  font-size: 5px;
+  padding: 10px 20px 10px 20px;
+}
+
 
 .timer-wrapper > ul {
   height: 100%;
