@@ -177,7 +177,7 @@
 }
 
 @keyframes spinBG {
-  20% {
+  15% {
     transform: rotate(0deg);
   }
   100% {
